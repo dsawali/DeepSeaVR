@@ -1,0 +1,203 @@
+fileFormatVersion: 2
+guid: 20a5f74ca43b6314980f3dacd9e81ea4
+timeCreated: 1464463655
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: armschair
+    100002: body
+    100004: bolt
+    100006: Button_02
+    100008: Capsule001
+    100010: Capsule003
+    100012: cockpit002
+    100014: cockpit005
+    100016: downlight
+    100018: downsmlight
+    100020: fan
+    100022: flap
+    100024: handler
+    100026: helmet
+    100028: //RootNode
+    100030: panel
+    100032: periscope
+    100034: rotor
+    100036: seat
+    100038: sidetube
+    100040: tail
+    100042: topdoor
+    100044: toplight
+    100046: torpedo001
+    100048: torpedo002
+    100050: wings
+    100052: wings002
+    400000: armschair
+    400002: body
+    400004: bolt
+    400006: Button_02
+    400008: Capsule001
+    400010: Capsule003
+    400012: cockpit002
+    400014: cockpit005
+    400016: downlight
+    400018: downsmlight
+    400020: fan
+    400022: flap
+    400024: handler
+    400026: helmet
+    400028: //RootNode
+    400030: panel
+    400032: periscope
+    400034: rotor
+    400036: seat
+    400038: sidetube
+    400040: tail
+    400042: topdoor
+    400044: toplight
+    400046: torpedo001
+    400048: torpedo002
+    400050: wings
+    400052: wings002
+    2300000: armschair
+    2300002: body
+    2300004: bolt
+    2300006: Button_02
+    2300008: Capsule001
+    2300010: Capsule003
+    2300012: cockpit002
+    2300014: cockpit005
+    2300016: downlight
+    2300018: downsmlight
+    2300020: fan
+    2300022: flap
+    2300024: handler
+    2300026: helmet
+    2300028: panel
+    2300030: periscope
+    2300032: rotor
+    2300034: seat
+    2300036: sidetube
+    2300038: tail
+    2300040: topdoor
+    2300042: toplight
+    2300044: torpedo001
+    2300046: torpedo002
+    2300048: wings
+    2300050: wings002
+    3300000: armschair
+    3300002: body
+    3300004: bolt
+    3300006: Button_02
+    3300008: Capsule001
+    3300010: Capsule003
+    3300012: cockpit002
+    3300014: cockpit005
+    3300016: downlight
+    3300018: downsmlight
+    3300020: fan
+    3300022: flap
+    3300024: handler
+    3300026: helmet
+    3300028: panel
+    3300030: periscope
+    3300032: rotor
+    3300034: seat
+    3300036: sidetube
+    3300038: tail
+    3300040: topdoor
+    3300042: toplight
+    3300044: torpedo001
+    3300046: torpedo002
+    3300048: wings
+    3300050: wings002
+    4300000: seat
+    4300002: panel
+    4300004: body
+    4300006: torpedo001
+    4300008: Button_02
+    4300010: cockpit002
+    4300012: flap
+    4300014: fan
+    4300016: helmet
+    4300018: rotor
+    4300020: downlight
+    4300022: handler
+    4300024: bolt
+    4300026: periscope
+    4300028: topdoor
+    4300030: wings
+    4300032: tail
+    4300034: sidetube
+    4300036: Capsule001
+    4300038: toplight
+    4300040: cockpit005
+    4300042: armschair
+    4300044: wings002
+    4300046: Capsule003
+    4300048: downsmlight
+    4300050: torpedo002
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

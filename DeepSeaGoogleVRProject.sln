@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeepSeaGoogleVRProject.CSharp", "DeepSeaGoogleVRProject.CSharp.csproj", "{A08E2DC9-6B98-51D9-8E86-A32B066B287E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeepSeaGoogleVRProject.CSharp.Editor", "DeepSeaGoogleVRProject.CSharp.Editor.csproj", "{5CEA3063-1A8D-6FD0-8D6F-576F2418C5F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A08E2DC9-6B98-51D9-8E86-A32B066B287E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A08E2DC9-6B98-51D9-8E86-A32B066B287E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A08E2DC9-6B98-51D9-8E86-A32B066B287E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A08E2DC9-6B98-51D9-8E86-A32B066B287E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CEA3063-1A8D-6FD0-8D6F-576F2418C5F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CEA3063-1A8D-6FD0-8D6F-576F2418C5F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CEA3063-1A8D-6FD0-8D6F-576F2418C5F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CEA3063-1A8D-6FD0-8D6F-576F2418C5F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

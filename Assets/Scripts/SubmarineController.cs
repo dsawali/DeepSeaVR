@@ -46,8 +46,7 @@ public class SubmarineController : MonoBehaviour {
     public void FireTorpedo(){
         Vector3 torpedoFirePosition;
 
-        if (fireLeftTorpedo)
-        {
+        if (fireLeftTorpedo){
             torpedoFirePosition = leftFirePosition.position;
             fireLeftTorpedo = false;
         }
